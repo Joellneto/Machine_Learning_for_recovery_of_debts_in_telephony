@@ -1,0 +1,16 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+azureml-automl-core==1.52.0
+azureml-automl-runtime==1.52.0
+cryptography==41.0.5
+urllib3==1.26.0
+protobuf==3.20.2
+inference-schema==1.5.1
+numpy==1.22.3
+pandas==1.1.5
+scikit-learn==0.22.1
+xgboost==1.3.3
+ 

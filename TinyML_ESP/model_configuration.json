@@ -1,0 +1,76 @@
+{
+  "name": "Telephony Debts ML Model",
+  "class": "Results",
+  "fields": [
+    {
+      "name": "TIPO_PES",
+      "type": "categorical",
+      "digits": 1,
+      "min_value": 0,
+      "max_value": 0
+    },
+    {
+      "name": "SEXO_PES",
+      "type": "categorical",
+      "digits": 1,
+      "min_value": 0,
+      "max_value": 3
+    },
+    {
+      "name": "ESTADO_CIVIL_PES",
+      "type": "categorical",
+      "digits": 2,
+      "min_value": 0,
+      "max_value": 11
+    },
+    {
+      "name": "IDADE",
+      "type": "continuous",
+      "digits": 3,
+      "min_value": 0,
+      "max_value": 111
+    },
+    {
+      "name": "VALOR_TOTAL",
+      "type": "continuous",
+      "digits": 5,
+      "min_value": 0,
+      "max_value": 30405.89
+    },
+    {
+      "name": "ATRASO",
+      "type": "continuous",
+      "digits": 3,
+      "min_value": 0,
+      "max_value": 296
+    },
+    {
+      "name": "NOME_TIPE",
+      "type": "categorical",
+      "digits": 1,
+      "min_value": 0,
+      "max_value": 3
+    },
+    {
+      "name": "TEVE_DEVOL",
+      "type": "categorical",
+      "digits": 1,
+      "min_value": 0,
+      "max_value": 1
+    },
+    {
+      "name": "CIDADES",
+      "type": "categorical",
+      "digits": 4,
+      "min_value": 0,
+      "max_value": 2598
+    },
+    {
+      "name": "UF",
+      "type": "categorical",
+      "digits": 2,
+      "min_value": 0,
+      "max_value": 26
+    }
+  ]
+}

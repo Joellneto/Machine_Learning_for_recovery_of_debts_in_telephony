@@ -1,0 +1,1 @@
+{"Inputs": { "data": [{ TIPO_PES": "F","SEXO_PES": "F", "ESTADO_CIVIL_PES": "2", "IDADE": 46.0, "VALOR_TOTAL": 288.79, "ATRASO": 175, "NOME_TIPE": "RESIDENCIAL","TEVE_DEVOL": 0, "CIDADES": "MANAUS", "UF": "AM" }] },"GlobalParameters": { "method": "predict" }}
